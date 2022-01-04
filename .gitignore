@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+#Intellij workspace
+/.idea/
+#test folder
+/test/
+#target folder
+/target
+
